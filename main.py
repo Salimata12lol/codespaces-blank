@@ -1,3 +1,5 @@
-print( Welcome to fashion show)
+print( Welcome to Sali boutique)
 name = input("what is your name?")
-age = input("Hello" + name + ", how old are you")
+age = input("Hello" + name + ", how can i help you today")
+Response1 = input("Are you sure you don't need help?")
+Repsonse2 = input( " okay let me know when you do okay bye.")
